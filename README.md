@@ -23,7 +23,7 @@ GIF created with [RecordIt](http://https://recordit.co/).
 
 ## Notes
 
-This was my first Swift app and first time creating the repository on GitHub, the walkthroughs were very detailed, I only had a problem when the app content dissapeared after pulling readme from github, but I fixed it by using stashed version of the app
+This was my first Swift app and first time creating the repository on GitHub; the walkthroughs were very detailed, I only had a problem when the app content dissapeared after pulling readme from GitHub, but I fixed it by using stashed version of the app.
 
 ## License
 
