@@ -4,7 +4,7 @@ TipCalculatop is a tip calculator application for iOS.
 
 Submitted by: Liudmila (Mila) Paymukhina
 
-Time spent: 2 hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
@@ -13,17 +13,22 @@ The following **required** functionality is complete:
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
+The following **additional** features are implemented:
+
+- [ ] User can select a custom tip using a slider 
+- [ ] User can switch between dark mode and light mode
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/Ug71hIImFD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/bcZsCHtbi7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [RecordIt](http://https://recordit.co/).
 
 ## Notes
 
-This was my first Swift app and first time creating the repository on GitHub; the walkthroughs were very detailed, I only had a problem when the app content dissapeared after pulling readme from GitHub, but I fixed it by using stashed version of the app.
+This was my first Swift app and first time creating the repository on GitHub; the walkthroughs were very detailed, I only had a problem when the app content dissapeared after pulling readme from GitHub, but I fixed it by using stashed version of the app. 
 
 ## License
 
